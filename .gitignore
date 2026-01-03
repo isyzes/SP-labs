@@ -19,7 +19,6 @@ Thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
-*.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
 CMakeLists.txt.user
