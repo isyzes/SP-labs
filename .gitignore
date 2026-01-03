@@ -1,0 +1,156 @@
+# Исключения для Git (опционально)
+.gitattributes
+.gitkeep
+
+# Временные файлы и файлы редакторов
+*~
+*.swp
+*.swo
+*#
+.#*
+.DS_Store
+Thumbs.db
+
+# Файлы IDE и редакторов
+/.vs/
+/.vscode/
+/.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+CMakeLists.txt.user
+
+# Файлы сборки и бинарники
+build/
+out/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.ilk
+*.pdb
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.lo
+*.la
+*.al
+
+# Файлы компилятора и линкера
+*.gcno
+*.gcda
+
+# Файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+*.cmake
+
+# Файлы зависимостей
+*.d
+.deps/
+
+# Автосгенерированные файлы
+autom4te.cache/
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+# Файлы тестирования
+*.gcov
+coverage/
+
+# Файлы упаковки
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+
+# Файлы препроцессора
+*.i
+*.ii
+
+# Файлы ассемблера
+*.s
+*.S
+
+# Файлы отладки
+core
+core.*
+*.stackdump
+
+# Файлы проекта Code::Blocks
+*.cbp
+*.layout
+
+# Файлы проекта CodeLite
+*.project
+*.workspace
+
+# Файлы проекта Eclipse
+.project
+.cproject
+.settings/
+
+# Файлы проекта Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Файлы проекта Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# Файлы проекта Visual Studio
+Debug/
+Release/
+x64/
+x86/
+Win32/
+*.sdf
+*.opensdf
+ipch/
+*.ipch
+*.db
+*.opendb
+
+# Файлы документации
+docs/html/
+docs/latex/
+doxygen/
+
+# Файлы ввода-вывода для конкурсного программирования
+*.in
+*.out
+input.txt
+output.txt
+
+# Файлы кэша
+.cache/
+
+# Локальные настройки
+local.properties
+.env
+.secrets
+
+# Системные файлы
+*.orig
+*_backup
