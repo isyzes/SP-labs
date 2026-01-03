@@ -120,6 +120,7 @@ xcuserdata/
 DerivedData/
 
 # ����� ������� Visual Studio
+.vs/
 Debug/
 Release/
 x64/
