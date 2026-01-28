@@ -1,0 +1,27 @@
+This is a test file for the punctuation counter program!
+It contains various punctuation marks: periods, commas, question and exclamation marks!
+Also quotes: "Hello world!", parentheses (round), [square brackets] and {curly braces}.
+Don't forget: semicolons; dashes - colons: and apostrophe's.
+How many punctuation marks are here? Let's count them all!
+Multiple sentences. Each with punctuation! Right?
+
+
+=== PUNCTUATION COUNT RESULTS ===
+Exclamation mark ('!'): 5 time(s)
+Quotation marks ('"'): 2 time(s)
+Apostrophe ('''): 3 time(s)
+Opening parenthesis ('('): 1 time(s)
+Closing parenthesis (')'): 1 time(s)
+Comma (','): 4 time(s)
+Hyphen/dash ('-'): 1 time(s)
+Period ('.'): 3 time(s)
+Colon (':'): 4 time(s)
+Semicolon (';'): 1 time(s)
+Question mark ('?'): 2 time(s)
+Opening square bracket ('['): 1 time(s)
+Closing square bracket (']'): 1 time(s)
+Opening curly brace ('{'): 1 time(s)
+Closing curly brace ('}'): 1 time(s)
+===========================================
+Total punctuation marks: 31
+===========================================

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IGNATOVICH_DLL/IGNATOVICH_DLL.vcxproj" Id="072787f1-e03d-423f-b2a2-b98b1ac23dc1" />
+  <Project Path="IGNATOVICH_DLL_E/IGNATOVICH_DLL_E.vcxproj" Id="fbc04348-bfd9-4d9a-91c3-bca1056d63d7" />
+  <Project Path="IGNATOVICH_DLL_I/IGNATOVICH_DLL_I.vcxproj" Id="b74eaceb-24e9-4cca-8618-4805ca85b191" />
+</Solution>
