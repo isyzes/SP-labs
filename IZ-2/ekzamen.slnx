@@ -3,7 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CA1/CA1.vcxproj" />
-  <Project Path="CA2/CA2.vcxproj" />
-  <Project Path="Lib1/Lib1.vcxproj" />
+  <Project Path="CA1/CA1.vcxproj" Id="e1afbf93-5d1d-4cbe-bb4c-f50394b9e284" />
+  <Project Path="CA2/CA2.vcxproj" Id="3e57238b-dc9d-4a80-82b3-640719b6c21a" />
+  <Project Path="Lib1/Lib1.vcxproj" Id="e447f3a5-a328-4523-a504-d5dbc41383f1" />
 </Solution>

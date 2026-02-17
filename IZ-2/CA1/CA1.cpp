@@ -1,9 +1,6 @@
 ﻿#include <iostream>
 #include <windows.h>
 
-typedef void (*SetValuesFunc)(int, int);
-typedef int (*GetFunc)();
-
 int main()
 {
     HINSTANCE hLib = LoadLibraryA("Lib1.dll");
